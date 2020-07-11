@@ -1,6 +1,18 @@
 .App {
   text-align: center;
 }
+.table-row {
+  background-color: rgba(243, 153, 0, 0.6);
+
+  font-size: 1.645vw;
+}
+.table-row td {
+  color: white;
+}
+
+.th {
+  font-size: 1.184vw;
+}
 
 .App-logo {
   height: 40vmin;
